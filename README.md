@@ -1,5 +1,5 @@
-![](images/BACKGROUND-small.png)
 
+<img src="images/BACKGROUND.png" width=100>
 # THAT'S LIFE
 Third Term Project | Freshman Year | 
 
