@@ -35,7 +35,7 @@ There is an attached file "Specifications.pdf"
 ## Author Note
 Despite all these, most of the specifications were completed. 
 
-The problem is the routing and connection of the GUI, with some simple fixes in the backend.
+The problem is the routing and connection of the GUI, with some simple fixes needed in the backend.
 
 
 Amazingly, the major portion of the code was crammed for 4 days. 
