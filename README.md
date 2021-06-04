@@ -27,7 +27,9 @@ There is an attached file "Specifications.pdf"
 3. Missing exit button.
 4. Main Window does not become disabled after.
 5. Missing pop-up windows for deciding paths / choosing houses / choosing careers / generally, choosing events.
+   
    A. Replaced with Appearing/Disappearing Buttons on beside the paths of the game stage itself.
+   
 6. Match does not end right away.
 
 ## Author Note
