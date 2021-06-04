@@ -1,3 +1,5 @@
+![](images/BACKGROUND%20.png)
+
 # THAT'S LIFE
 Third Term Project | Freshman Year | 
 
