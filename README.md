@@ -1,5 +1,6 @@
 
-<img src="images/BACKGROUND.png" width=800>
+<img src="images/BACKGROUND.png" width=300>
+
 # THAT'S LIFE
 Third Term Project | Freshman Year | 
 
