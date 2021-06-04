@@ -1,5 +1,7 @@
 
+<div align="center">
 <img src="images/BACKGROUND.png" width=300>
+</div>
 
 # THAT'S LIFE
 Third Term Project | Freshman Year | 
