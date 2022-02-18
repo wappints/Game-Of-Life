@@ -4,9 +4,9 @@
 </div>
 
 # THAT'S LIFE
-Third Term Project | Freshman Year | 
+Third Term Project | Freshman Year
 
-Co-authors: Yeohan Norona & Joaquin Escarraga 
+Co-authors: Yeohan Norona, Joaquin Escarraga 
 
 A student-project imitating Marmalade Game Studio's 
 "THE GAME OF LIFE" with some modifications.
